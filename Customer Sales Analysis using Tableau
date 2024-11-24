@@ -1,0 +1,20 @@
+**Customer Sales Analysis Metrics Overview**  
+
+This Tableau dashboard provides a comprehensive analysis of customer sales, visualizing key metrics to uncover trends and patterns. The highlights include:  
+
+1. **Revenue Trends:**  
+   - **Monthly and Yearly Revenue:** Insights into sales performance over time, identifying peaks and slow periods.  
+   - **Seasonality Analysis:** Understanding high-demand periods for strategic planning.  
+
+2. **Demographic Insights:**  
+   - **Revenue by Gender:** Evaluates which gender contributes more to sales, aiding in targeted marketing strategies.  
+   - **Region-wise Revenue:** Identifies top-performing regions and potential growth areas.  
+
+3. **Geographical Insights:**  
+   - **Sales by Areas:** Highlights specific locations contributing significantly to revenue, enabling localized campaigns.  
+
+4. **Discount Correlation:**  
+   - Analyzes the relationship between discounts and sales performance, assessing whether discounts drive higher revenue or profit margins.  
+
+This dashboard empowers data-driven decision-making, offering actionable insights into customer behavior and sales dynamics.  
+You can explore the visualization [here](https://public.tableau.com/views/CustomerSalesAnalysis_17324728261210/CustomerSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
