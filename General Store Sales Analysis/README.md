@@ -14,7 +14,7 @@ This project marks the beginning of my data visualization journey. Using **Micro
 ---
 
 ## 📂 Project Files
-- **Dataset**: [General_Store_Sales.csv](./SV_sales_data.csv)  
+- **Dataset**: [General_Store_Sales.csv](./SV_sales_data.xlsx)  
   *(Click to view the data used for this analysis)*  
 - **Visualization**:  
   ![Sales Dashboard Screenshot](./image.png)
