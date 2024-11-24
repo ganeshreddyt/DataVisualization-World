@@ -9,7 +9,7 @@ This project analyzes customer sales data to uncover key business insights.
 - **Discount Analysis**: Correlation between discounts and sales
 
 ### 📂 Files
-- **Dataset**: `data.csv`
-- **Screenshot**: ![Dashboard Screenshot](./dashboard_screenshot.png)
+- **Dataset**: [Dataset](./sales_data.csv)
+- **Screenshot**: ![Dashboard Screenshot](./image.png)
 - **Live Dashboard**: [View Dashboard](https://public.tableau.com/views/CustomerSalesAnalysis_17324728261210/CustomerSalesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
