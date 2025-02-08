@@ -1,7 +1,7 @@
 # 📊 Data Visualization  
 
 ## 📌 Overview  
-This project focuses on visualizing data using various Python libraries like Matplotlib, Seaborn, and Plotly.  
+This Folder focuses on visualizing data using various tools like tableau, excel and with programming languages like R and Python (matplotlib, seaborn)
 
 ## 🚀 Features  
 ✅ Interactive and static visualizations  
@@ -12,8 +12,8 @@ This project focuses on visualizing data using various Python libraries like Mat
 🔹 Python  
 🔹 Matplotlib  
 🔹 Seaborn  
-🔹 Plotly  
-🔹 Pandas  
+🔹 Tableau 
+🔹 PowerBi  
 
 # 🎯 Uses of Data Visualization  
 
